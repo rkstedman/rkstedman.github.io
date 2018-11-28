@@ -1,14 +1,14 @@
 {
-  "main.css": "www.rkstedman.com/static/css/main.3a11ef5e.chunk.css",
-  "main.js": "www.rkstedman.com/static/js/main.65e6011f.chunk.js",
-  "main.js.map": "www.rkstedman.com/static/js/main.65e6011f.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "www.rkstedman.com/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "www.rkstedman.com/static/js/1.2dd891c4.chunk.js.map",
-  "runtime~main.js": "www.rkstedman.com/static/js/runtime~main.d489fe72.js",
-  "runtime~main.js.map": "www.rkstedman.com/static/js/runtime~main.d489fe72.js.map",
-  "static/media/logo.svg": "www.rkstedman.com/static/media/logo.5d5d9eef.svg",
-  "static/css/main.3a11ef5e.chunk.css.map": "www.rkstedman.com/static/css/main.3a11ef5e.chunk.css.map",
-  "index.html": "www.rkstedman.com/index.html",
-  "precache-manifest.14545c001fe5ba881dda065520c31635.js": "www.rkstedman.com/precache-manifest.14545c001fe5ba881dda065520c31635.js",
-  "service-worker.js": "www.rkstedman.com/service-worker.js"
+  "main.css": "/static/css/main.3a11ef5e.chunk.css",
+  "main.js": "/static/js/main.e234a3e2.chunk.js",
+  "main.js.map": "/static/js/main.e234a3e2.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/css/main.3a11ef5e.chunk.css.map": "/static/css/main.3a11ef5e.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.594a47aa9f4ff9f03da2510c1007ce46.js": "/precache-manifest.594a47aa9f4ff9f03da2510c1007ce46.js",
+  "service-worker.js": "/service-worker.js"
 }
