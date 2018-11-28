@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "rkstedman.com/precache-manifest.4beda32f8ec1e9ea78dba8e75e3fdd16.js"
+  "www.rkstedman.com/precache-manifest.14545c001fe5ba881dda065520c31635.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("rkstedman.com/index.html", {
+workbox.routing.registerNavigationRoute("www.rkstedman.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
