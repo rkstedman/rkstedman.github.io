@@ -2,8 +2,9 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "rkstedman.com",
+  "homepage": "http://www.rkstedman.com",
   "dependencies": {
+    "bulma": "^0.7.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
@@ -14,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages --branch master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
